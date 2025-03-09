@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jarrar</h1>
-<h3 align="center">"Aspiring Software Engineer | Passionate about Web Development, Flutter, Data Science, and Cybersecurity"</h3>
+<h3 align="center">"Aspiring Software Engineer | Passionate about Web Development, Flutter, AI, and Cybersecurity"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jarrarshahid&label=Profile%20views&color=0e75b6&style=flat" alt="jarrarshahid" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarrarshahid" alt="jarrarshahid" /></a> </p>
 
-- 🔭 I’m currently working on **Learning and creating Flutter projects while advancing my Python knowledge for Data Science.**
+- 🔭 I’m currently working on **Learning and creating Flutter projects while advancing my Python knowledge for AI Engineer.**
 
 - 👯 I’m looking to collaborate on **Flutter, web development, and Python-based projects.**
 
