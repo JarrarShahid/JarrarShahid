@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarrarshahid" alt="jarrarshahid" /></a> </p>
 
-- 🔭 I’m currently working on **Learning and creating Flutter projects while advancing my Python knowledge for AI Engineer.**
+- 🔭 I’m currently working on **Learning and creating Flutter projects while advancing my Python knowledge for AI Engineering.**
 
 - 👯 I’m looking to collaborate on **Flutter, web development, and Python-based projects.**
 
