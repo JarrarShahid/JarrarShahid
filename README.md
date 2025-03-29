@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 About Me
-- 🚀 Currently **honing my Flutter expertise** while expanding my Python skills for **AI Engineering**.
+- 🚀 Currently **honing my Python skills for **AI Engineering**.
 - 🤝 Open to **collaborations** on **Flutter, Web Development, and Python-based projects**.
 - 🏗️ Building **impactful software solutions** that push the limits of technology.
 - 🎯 Passionate about **clean code, scalable architectures, and problem-solving**.
