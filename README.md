@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 About Me
-- 🚀 Currently **honing my Python skills for **AI Engineering**.
+- 🚀 Currently **honing my Flutter expertise** while expanding my Python skills for **AI Engineering**.
 - 🤝 Open to **collaborations** on **Flutter, Web Development, and Python-based projects**.
 - 🏗️ Building **impactful software solutions** that push the limits of technology.
 - 🎯 Passionate about **clean code, scalable architectures, and problem-solving**.
@@ -68,6 +68,14 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JarrarShahid&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JarrarShahid&theme=radical" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JarrarShahid&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JarrarShahid&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JarrarShahid/JarrarShahid/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
