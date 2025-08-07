@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Jarrar! 👋
 
-### Aspiring Software Engineer | Flutter Dev | AI Enthusiast | Cybersecurity Learner
+### Aspiring Software Engineer | Flutter Dev | AI Engineer | Cybersecurity Learner
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jarrarshahid&label=Profile%20Views&color=0e75b6&style=flat)
 
