@@ -1,6 +1,6 @@
 ## 🚀 Hi, I'm Jarrar! 👋
 
-### Aspiring Software Engineer | Flutter Dev | AI Engineer | Cybersecurity Learner
+### BSSE'27 UBIT | Software Engineer Trainee | AI Engineer | Exploring Cybersecurity | Flutter Enthusiast | Full Stack Developer(PHP/Laravel)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jarrarshahid&label=Profile%20Views&color=0e75b6&style=flat)
 
