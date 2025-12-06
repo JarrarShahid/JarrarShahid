@@ -76,5 +76,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarrar-shahid-873503307/)
 
 ---
+## Check out my portfolio: [https://jarrarshahid.netlify.app](https://jarrarshahid.netlify.app)
 
+---
 ⚡ **Fun Fact:** Debugging is just like solving an escape room—except the door randomly disappears sometimes! 😆
